@@ -1,5 +1,5 @@
 ## Ali-Sayed
-https://oldwarrr.github.io/Ali-Sayed/
+https://oldwarrr.github.io/Ali-Sayed_1/
 
 ##### Цель: тренировка навыков Grid CSS
 ##### Макет: Ali-Sayed
